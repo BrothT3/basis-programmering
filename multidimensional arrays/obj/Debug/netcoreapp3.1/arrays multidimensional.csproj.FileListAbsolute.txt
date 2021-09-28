@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.exe
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.deps.json
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.dll
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\bin\Debug\netcoreapp3.1\arrays multidimensional.pdb
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.dll
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.pdb
+C:\Users\Rolferten\Desktop\vis\multidimensional arrays\obj\Debug\netcoreapp3.1\arrays multidimensional.genruntimeconfig.cache

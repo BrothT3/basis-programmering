@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.exe
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.deps.json
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.dll
+C:\Users\Rolferten\Desktop\vis\funktioner med return\bin\Debug\netcoreapp3.1\funktioner med return.pdb
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.dll
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.pdb
+C:\Users\Rolferten\Desktop\vis\funktioner med return\obj\Debug\netcoreapp3.1\funktioner med return.genruntimeconfig.cache

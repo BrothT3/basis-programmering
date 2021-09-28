@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.exe
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.deps.json
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.dll
+C:\Users\Rolferten\Desktop\vis\Mailingting\bin\Debug\netcoreapp3.1\Mailingting.pdb
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.dll
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.pdb
+C:\Users\Rolferten\Desktop\vis\Mailingting\obj\Debug\netcoreapp3.1\Mailingting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.exe
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.deps.json
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.dll
+C:\Users\Rolferten\Desktop\vis\projekt 1\bin\Debug\netcoreapp3.1\projekt 1.pdb
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.dll
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.pdb
+C:\Users\Rolferten\Desktop\vis\projekt 1\obj\Debug\netcoreapp3.1\projekt 1.genruntimeconfig.cache

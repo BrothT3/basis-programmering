@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.exe
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.deps.json
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.dll
+C:\Users\Rolferten\Desktop\vis\booleans\bin\Debug\netcoreapp3.1\booleans.pdb
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.dll
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.pdb
+C:\Users\Rolferten\Desktop\vis\booleans\obj\Debug\netcoreapp3.1\booleans.genruntimeconfig.cache

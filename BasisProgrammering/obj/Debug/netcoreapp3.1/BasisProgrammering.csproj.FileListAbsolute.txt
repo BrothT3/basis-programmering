@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.exe
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.deps.json
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.dll
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\bin\Debug\netcoreapp3.1\BasisProgrammering.pdb
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.dll
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.pdb
+C:\Users\Rolferten\Desktop\vis\BasisProgrammering\obj\Debug\netcoreapp3.1\BasisProgrammering.genruntimeconfig.cache

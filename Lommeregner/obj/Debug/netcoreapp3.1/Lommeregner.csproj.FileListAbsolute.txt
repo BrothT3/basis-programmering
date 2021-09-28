@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.exe
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.deps.json
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.dll
+C:\Users\Rolferten\Desktop\vis\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.pdb
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.dll
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.pdb
+C:\Users\Rolferten\Desktop\vis\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.genruntimeconfig.cache

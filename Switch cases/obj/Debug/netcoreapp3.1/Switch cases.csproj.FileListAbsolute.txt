@@ -1,0 +1,14 @@
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.exe
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.deps.json
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.runtimeconfig.json
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.runtimeconfig.dev.json
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.dll
+C:\Users\Rolferten\Desktop\vis\Switch cases\bin\Debug\netcoreapp3.1\Switch cases.pdb
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.csproj.AssemblyReference.cache
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.AssemblyInfoInputs.cache
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.AssemblyInfo.cs
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.csproj.CoreCompileInputs.cache
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.dll
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.pdb
+C:\Users\Rolferten\Desktop\vis\Switch cases\obj\Debug\netcoreapp3.1\Switch cases.genruntimeconfig.cache
